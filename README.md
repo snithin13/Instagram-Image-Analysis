@@ -46,4 +46,4 @@ Currently, engagement can be successfully predicted by the content of the captio
 
 ## Code:
 
-(https://github.com/snithin13/Instagram-Image-Analysis/blob/master/Instagram%20Natgeo%20Analysis%20Final.ipynb)
+https://github.com/snithin13/Instagram-Image-Analysis/blob/master/Instagram%20Natgeo%20Analysis%20Final.ipynb
