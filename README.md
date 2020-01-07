@@ -26,8 +26,15 @@ Is a Picture Worth a Thousand Words?
 * To measure engagement, created a metric by using a weighted sum of # likes and # comments. For this, we first normalized # likes and # comments.
 * Created an engagement score = .4*# likes (normalized) + .6*# comments (normalized). Defined High (1) and Low (0) engagement based on whether the engagement score is above or below the median value.
 * Ran a logistic regression with Engagement (binary) as the dependent variable, and the image labels as independent variables. Obtained an accuracy of 78%. Further, using both caption and labels, we get an improved accuracy of 82%.
-* Ran LDA using the bag of words model. identified number of topics s 4 to be ideal. Obtained the following results:
+* Ran LDA using the bag of words model. Identified number of topics s 4 to be ideal. Obtained the following results:
+
+![alt text](https://github.com/snithin13/Instagram-Image-Analysis/blob/master/Images/insta_lda.JPG)
+
+![alt text](https://github.com/snithin13/Instagram-Image-Analysis/blob/master/Images/insta_top10_lda.JPG "Top-10 words loaded for each topic")
+
 * To measure engagement across different topics, we took the quartiles with highest and lowest engagement scores and measured the differences in the average topic weights of pictures across the two quartiles. Below are the results:
+
+![alt text](https://github.com/snithin13/Instagram-Image-Analysis/blob/master/Images/insta_lda_engagement.JPG)
 
 ## Inference and Advice:
 
