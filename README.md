@@ -10,7 +10,7 @@ Is a Picture Worth a Thousand Words?
 2. Measure engagement of these photos with the followers.
 3. Use a model to identify if wwe can predict high or low engagement with just the image labels. Further, see whether the accuracy increases if post captions are also used.
 4. Perform topic modeling (LDA) on the image labels and indetify topics that dominate highest and lowest engagement scored pictures
-5. Based on inferences, forulate advice for National Geographic if it wants to increase engagement on its Instagram page.
+5. Based on inferences, formulate advice for National Geographic if it wants to increase engagement on its Instagram page.
 
 ## Contributors:
 
