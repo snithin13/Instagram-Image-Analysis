@@ -2,6 +2,8 @@
 
 Is a Picture Worth a Thousand Words?
 
+![alt text](https://github.com/snithin13/Instagram-Image-Analysis/blob/master/Images/100M_CelebrationPanda%2Bcopy.jpg)
+
 **Image Analytics on National Geographic's (natgeo) instagram page**
 
 ## Project Objectives:
